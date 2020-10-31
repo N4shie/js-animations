@@ -1,0 +1,3 @@
+function u(t) {
+for(Y=t*60,X=480;X--;x.fillStyle=R(o=333*C(C(S(t+X/33)-t+S(X/(25+T(X/19+Y/19))))),o*.7))x.fillRect(X*4,0,4,4)
+x.drawImage(c,0,4)}
